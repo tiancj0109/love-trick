@@ -1,0 +1,10 @@
+MYSQL_HOST= mysql.sqlpub.com
+MYSQL_PORT= 3306
+MYSQL_DATABASE= zhongxinyi
+MYSQL_USER= tiancj
+MYSQL_PASSWORD= lBWwL5DHrqNp7p3W
+WX_ROBOT_URL= https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=
+JWT_SECRET_KEY= lovetrick
+DRAWING_BED = IMGBB
+IMGBB_API = 
+WEB_URL = 
