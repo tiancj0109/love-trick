@@ -6,5 +6,5 @@ MYSQL_PASSWORD= lBWwL5DHrqNp7p3W
 WX_ROBOT_URL= https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=
 JWT_SECRET_KEY= lovetrick
 DRAWING_BED = IMGBB
-IMGBB_API = 
+IMGBB_API = e2fdf5ee8d8aa3b343da19df1324d29d
 WEB_URL = 
